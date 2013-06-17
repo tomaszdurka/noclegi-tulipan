@@ -1,5 +1,5 @@
 #!/bin/bash
-apt-get install apache2
+apt-get install -y apache2
 
 cd $(dirname $0)
 cp vhost.conf /etc/apache2/sites-available/pensjonat-tulipan.pl
