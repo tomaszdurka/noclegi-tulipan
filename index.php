@@ -18,9 +18,9 @@
 			<div class="site-header-wrapper">
 				<div class="site-header">
 					<div class="contact-phone">tel. 663 747 326</div>
-					<h1>Pensjonat <span>Tulipan</span></h1>
+					<h1>Noclegi <span>Tulipan</span></h1>
 					<div class="slogan">
-						Idealne miejsce na wypoczynek. Pensjonat otoczony jest wspaniałymi teranami rekreacyjnymi, będąc jednocześnie tylko 5km od centrum miasta Konin.
+						Idealne miejsce na wypoczynek. Dom otoczony jest wspaniałymi teranami rekreacyjnymi, będąc jednocześnie tylko 5km od centrum miasta Konin.
 					</div>
 					<div class="clear"></div>
 				</div>
@@ -37,7 +37,7 @@
 					<div class="images">
 						<a class="fancybox" rel="gal" href="/assets/photos/room1.jpg"><img alt="Pokoje Konin" src="/assets/photos/thumb/room1.jpg" /></a>
 						<a class="fancybox" rel="gal" href="/assets/photos/room2.jpg"><img alt="Kwatery pracownicze Konin" src="/assets/photos/thumb/room2.jpg" /></a>
-						<a class="fancybox" rel="gal" href="/assets/photos/garden.jpg"><img alt="Pensjonat Grill Konin" src="/assets/photos/thumb/garden.jpg" /></a>
+						<a class="fancybox" rel="gal" href="/assets/photos/garden.jpg"><img alt="Dom Grill Konin" src="/assets/photos/thumb/garden.jpg" /></a>
 					</div>
 					<div>
 						Do swobodnej dyspozycji gości pozostawiamy również miejsca parkingowe w zamkniętych garażach oraz przestronny ogród z miejscem na grilla i ognisko.
