@@ -1,9 +1,9 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pl">
 	<head>
-		<link href="/css/all.css" media="screen" rel="stylesheet" type="text/css" />
-		<link href="/css/plugins.css" media="screen" rel="stylesheet" type="text/css" />
-		<link href="/css/fonts/OpenSans.css" media="screen" rel="stylesheet" type="text/css" />
+		<link href="/public/css/all.css" media="screen" rel="stylesheet" type="text/css" />
+		<link href="/public/css/plugins.css" media="screen" rel="stylesheet" type="text/css" />
+		<link href="/public/css/fonts/OpenSans.css" media="screen" rel="stylesheet" type="text/css" />
 
 		<title>Pensjonat Tulipan | Noclegi Konin</title>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
@@ -35,9 +35,9 @@
 						We wszystkich pokojach znajdują się telewizory, natomiast w otwartej kuchni mają Państwo możliwość korzystania z kuchenki, piekarnika, mikrofali oraz lodówki.
 					</div>
 					<div class="images">
-						<a class="fancybox" rel="gal" href="/assets/photos/room1.jpg"><img alt="Pokoje Konin" src="/assets/photos/thumb/room1.jpg" /></a>
-						<a class="fancybox" rel="gal" href="/assets/photos/room2.jpg"><img alt="Kwatery pracownicze Konin" src="/assets/photos/thumb/room2.jpg" /></a>
-						<a class="fancybox" rel="gal" href="/assets/photos/garden.jpg"><img alt="Dom Grill Konin" src="/assets/photos/thumb/garden.jpg" /></a>
+						<a class="fancybox" rel="gal" href="/public/assets/photos/room1.jpg"><img alt="Pokoje Konin" src="/public/assets/photos/thumb/room1.jpg" /></a>
+						<a class="fancybox" rel="gal" href="/public/assets/photos/room2.jpg"><img alt="Kwatery pracownicze Konin" src="/public/assets/photos/thumb/room2.jpg" /></a>
+						<a class="fancybox" rel="gal" href="/public/assets/photos/garden.jpg"><img alt="Dom Grill Konin" src="/public/assets/photos/thumb/garden.jpg" /></a>
 					</div>
 					<div>
 						Do swobodnej dyspozycji gości pozostawiamy również miejsca parkingowe w zamkniętych garażach oraz przestronny ogród z miejscem na grilla i ognisko.
@@ -76,8 +76,8 @@
 			</div>
 		</div>
 
-		<script type="text/javascript" src="/js/plugins.js"></script>
-		<script type="text/javascript" src="/js/all.js"></script>
+		<script type="text/javascript" src="/public/js/plugins.js"></script>
+		<script type="text/javascript" src="/public/js/all.js"></script>
 		<script type="text/javascript" src="">
 			var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-26296470-3']);
